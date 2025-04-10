@@ -33,7 +33,7 @@ A clean, responsive and beautiful todo management application with category filt
 1. Clone the repository
 2. Install dependencies:
    ```bash
-   npm install -f
+   npm install 
    ```
 3. Start the development server:
    ```bash
